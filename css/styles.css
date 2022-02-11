@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Cardo', serif;
+}
+
+h1 {
+  color: #11999E;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+
+}
+h2 {
+  color: #11999E;
+  margin-top: 0;
+  font-weight: normal;
+  font-family: 'Cardo', serif;
+  margin: 40px auto 40px auto;
+}
+h3 {
+  color: #11999E;
+  margin-top: 0;
+  font-family: 'Cardo', serif;
+  margin: 40px auto 40px auto;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  width: 5%;
+  margin: 60px auto 60px auto;
+}
+
+.top-container {
+  background-color: #A4F9F5;
+  padding-top: 100px;
+}
+
+.skill{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.arquitecta-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.planta-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.mujer{
+  width: 15%;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.footer-link{
+  color: #11999E;
+  margin-left: 40px;
+}
+
+.name-sur{
+  color: #EAF6F6;
+  margin-left: 40px;
+  padding-top: 10px;
+}
